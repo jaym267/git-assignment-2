@@ -65,6 +65,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Sleeping naked should be normalized
 
 5. Add, commit, and push your changes:
   - git add README.md
